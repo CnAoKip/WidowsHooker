@@ -1,0 +1,4 @@
+#include "rsrc.h"
+
+ICON_HELPER ICON "zdy.ico"
+ICON_GT428 ICON "gt428.ico"
